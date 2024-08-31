@@ -4,7 +4,7 @@ This Unity project is a basketball game, in VR. You simply have grab the ball an
 
 Controls are explained in the game.
 ## 🌳 Project tree
-You will find in the repo, the Unity project, under 202.3.44f1 version (LTS).
+You will find in the repo, the Unity project, under 2022.3.44f1 version (LTS).
 
 In the release section, you will find the PCVR executable, that use many PCVR platform such as SteamVR or OculusVR.
 
